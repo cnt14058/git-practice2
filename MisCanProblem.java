@@ -36,7 +36,7 @@ class MisCanAction implements Action{
 	var dir =this.boat<0?"right":"left";
 	var m=Math.abs(this.missionary);
 	var c=Math.abs(this.cannibal);
-	return String.format("move (%d,%d)to%s",m,c,dir);
+	return String.format("move (%d,%d)%s",m,c,dir);
     }
 }
 
