@@ -1,4 +1,3 @@
-// This code solves the Missionaries and Cannibals problem.
 
 package ex1c;
 
