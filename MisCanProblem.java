@@ -1,8 +1,9 @@
-// This code solves the Missionaries and Cannibals problem.
 
 package ex1c;
 
 import java.util.*;
+System.out.println("Solver started");
+
 
 public class MisCanProblem{
     public static void main(String[]args){
